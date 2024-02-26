@@ -1,0 +1,5319 @@
+.www-officeworks-com {
+  display: flex;
+  flex-direction: column;
+  max-width: 1920px;
+  min-height: 1080px;
+  align-items: flex-start;
+  gap: 13px;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.www-officeworks-com .heading {
+  position: absolute;
+  width: 1869px;
+  height: 45px;
+  top: 19px;
+  left: -473000px;
+  font-family: var(--www-officeworks-com-au-inter-bold-34-73-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-bold-34-73-font-weight);
+  color: var(--wwwofficeworkscomauendeavour);
+  font-size: var(--www-officeworks-com-au-inter-bold-34-73-font-size);
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-34-73-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-34-73-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-bold-34-73-font-style);
+}
+
+.www-officeworks-com .div-ow-app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 0px 0.01px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .div-headerstyle {
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--wwwofficeworkscomauendeavour);
+  display: flex;
+  position: relative;
+}
+
+.www-officeworks-com .div {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 130px;
+  background-color: var(--wwwofficeworkscomaunavy-blue);
+}
+
+.www-officeworks-com .div-benefits-bar {
+  display: flex;
+  height: 49px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 370px 1px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: var(--wwwofficeworkscomaugallery);
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwofficeworkscomaualto);
+}
+
+.www-officeworks-com .list {
+  display: flex;
+  min-width: 275px;
+  max-width: 1180px;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0px 0.02px 0px 0px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .item {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 48px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/ico-clickcollect-svg-fill.svg);
+  background-size: 100% 100%;
+}
+
+.www-officeworks-com .span-benefits-bar {
+  position: relative;
+  width: 219px;
+  height: 48px;
+  left: 5px;
+}
+
+.www-officeworks-com .overlap-group {
+  position: relative;
+  width: 190px;
+  height: 48px;
+  top: -1px;
+  left: 30px;
+}
+
+.www-officeworks-com .free-hour-click {
+  position: absolute;
+  width: 184px;
+  height: 48px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-officeworks-com-au-inter-bold-14-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-bold-14-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-bold-14-font-size);
+  text-align: center;
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-14-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-bold-14-font-style);
+}
+
+.www-officeworks-com .superscript {
+  position: absolute;
+  width: 6px;
+  height: 12px;
+  top: 14px;
+  left: 184px;
+  font-family: var(--www-officeworks-com-au-inter-bold-9-19-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-bold-9-19-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-bold-9-19-font-size);
+  text-align: center;
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-9-19-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-9-19-line-height);
+  font-style: var(--www-officeworks-com-au-inter-bold-9-19-font-style);
+}
+
+.www-officeworks-com .span-benefits-bar-wrapper {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 48px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/ico-freedelivery-svg-fill-1.svg);
+  background-size: 100% 100%;
+}
+
+.www-officeworks-com .overlap-group-wrapper {
+  position: relative;
+  width: 255px;
+  height: 48px;
+  left: 5px;
+}
+
+.www-officeworks-com .overlap-group-2 {
+  position: relative;
+  width: 225px;
+  height: 48px;
+  top: -1px;
+  left: 30px;
+}
+
+.www-officeworks-com .text-wrapper {
+  position: absolute;
+  width: 221px;
+  height: 48px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-officeworks-com-au-inter-bold-13-89-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-bold-13-89-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-bold-13-89-font-size);
+  text-align: center;
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-13-89-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-13-89-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-bold-13-89-font-style);
+}
+
+.www-officeworks-com .superscript-2 {
+  width: 4px;
+  height: 12px;
+  top: 14px;
+  left: 221px;
+  font-weight: var(--www-officeworks-com-au-inter-bold-10-01-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-bold-10-01-font-size);
+  text-align: center;
+  line-height: var(--www-officeworks-com-au-inter-bold-10-01-line-height);
+  position: absolute;
+  font-family: var(--www-officeworks-com-au-inter-bold-10-01-font-family);
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-10-01-letter-spacing);
+  font-style: var(--www-officeworks-com-au-inter-bold-10-01-font-style);
+}
+
+.www-officeworks-com .div-wrapper {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 48px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/ico-pricebeat-svg-fill.svg);
+  background-size: 100% 100%;
+}
+
+.www-officeworks-com .span-benefits-bar-2 {
+  position: relative;
+  width: 181px;
+  height: 48px;
+  left: 5px;
+}
+
+.www-officeworks-com .overlap-group-3 {
+  position: relative;
+  width: 152px;
+  height: 48px;
+  top: -1px;
+  left: 30px;
+}
+
+.www-officeworks-com .text-wrapper-2 {
+  position: absolute;
+  width: 146px;
+  height: 48px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-officeworks-com-au-inter-bold-14-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-bold-14-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-bold-14-font-size);
+  text-align: center;
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-14-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-bold-14-font-style);
+}
+
+.www-officeworks-com .superscript-3 {
+  position: absolute;
+  width: 6px;
+  height: 12px;
+  top: 14px;
+  left: 146px;
+  font-family: var(--www-officeworks-com-au-inter-bold-10-5-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-bold-10-5-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-bold-10-5-font-size);
+  text-align: center;
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-10-5-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-10-5-line-height);
+  font-style: var(--www-officeworks-com-au-inter-bold-10-5-font-style);
+}
+
+.www-officeworks-com .link-2 {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .SVG-margin {
+  position: relative;
+  align-self: stretch;
+  width: 38px;
+  object-fit: cover;
+}
+
+.www-officeworks-com .div-wrapper-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0px 5px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .span-benefits-bar-3 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 13.8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 48px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .div-sc-bdvaja {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  width: 1200px;
+  min-height: 1px;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 0px 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .div-sc-bdvaja-2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 1.14e-13px;
+  padding: 20px 0.01px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .div-section-homepage {
+  display: flex;
+  flex-direction: column;
+  width: 786.66px;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .div-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .div-slick-list {
+  height: 357px;
+  align-self: stretch;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-officeworks-com .div-slick-track {
+  width: 7083px;
+  justify-content: center;
+  padding: 0px 6296px 0px 0px;
+  flex: 0 0 auto;
+  margin-right: -6296.34px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-officeworks-com .div-slick-slide {
+  width: 787px;
+  min-height: 1px;
+  flex: 1;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-officeworks-com .div-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .picture-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  overflow: hidden;
+}
+
+.www-officeworks-com .picture {
+  min-width: 1px;
+  min-height: 1px;
+  align-items: flex-start;
+  flex: 1;
+  flex-grow: 1;
+  margin-left: -101.5px;
+  margin-right: -101.5px;
+  display: inline-flex;
+  position: relative;
+}
+
+.www-officeworks-com .optimise {
+  position: relative;
+  align-self: stretch;
+  width: 990px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/optimise-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .img {
+  position: absolute;
+  width: 60px;
+  height: 357px;
+  top: 0;
+  left: 0;
+}
+
+.www-officeworks-com .div-4 {
+  position: absolute;
+  width: 60px;
+  height: 357px;
+  top: 0;
+  left: 727px;
+}
+
+.www-officeworks-com .div-indexstyled {
+  width: 393.33px;
+  justify-content: center;
+  padding: 0px 0px 0px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .div-indexstyled-2 {
+  padding: 0px 0px 12px;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--wwwofficeworkscomaugallery);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .div-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--wwwofficeworkscomauwild-sand);
+}
+
+.www-officeworks-com .div-6 {
+  display: flex;
+  align-items: flex-start;
+  padding: 0px 0px 10px;
+  width: 100%;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .div-7 {
+  min-width: 18px;
+  flex: 0 0 auto;
+  min-height: 21px;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .div-8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .heading-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 5px 0px;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-officeworks-com .heading-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 158.83px 0.5px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.5px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 19.2px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .div-9 {
+  height: 26px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/ico-fastcheckout-svg-fill.svg);
+  background-size: 100% 100%;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-officeworks-com .div-10 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  top: 10px;
+  left: 45px;
+}
+
+.www-officeworks-com .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-officeworks-com-au-inter-regular-13-02-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-regular-13-02-font-weight);
+  color: var(--wwwofficeworkscomaumine-shaft);
+  font-size: var(--www-officeworks-com-au-inter-regular-13-02-font-size);
+  letter-spacing: var(--www-officeworks-com-au-inter-regular-13-02-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-regular-13-02-line-height);
+  font-style: var(--www-officeworks-com-au-inter-regular-13-02-font-style);
+}
+
+.www-officeworks-com .div-11 {
+  height: 26px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/ico-addtolist-svg-fill.svg);
+  background-size: 100% 100%;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-officeworks-com .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaumine-shaft);
+  font-size: 13.1px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.www-officeworks-com .div-12 {
+  height: 26px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/ico-freedelivery-svg-fill.svg);
+  background-size: 100% 100%;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-officeworks-com .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaumine-shaft);
+  font-size: 12.9px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.www-officeworks-com .div-13 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 5px 1.71e-13px 0px 0px;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-officeworks-com .button {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 6px 0px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .span-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-8 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 13.2px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 21px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .button-2 {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6px 11px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  background-color: var(--wwwofficeworkscomaunavy-blue);
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: var(--wwwofficeworkscomaunavy-blue);
+}
+
+.www-officeworks-com .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunero);
+  font-size: 13.5px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .separator {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: var(--wwwofficeworkscomaualto);
+}
+
+.www-officeworks-com .div-14 {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .div-15 {
+  min-width: 18px;
+  flex: 0 0 auto;
+  min-height: 25px;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .heading-margin {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 5px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .heading-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 57.72px 0.5px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-10 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.39px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 19.5px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .div-findstorepanel {
+  display: flex;
+  align-items: flex-start;
+  padding: 0px 0.01px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .div-searchbar {
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.www-officeworks-com .div-sc-bdvaja-3 {
+  display: flex;
+  height: 32px;
+  align-items: flex-start;
+  padding: 1px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: var(--wwwofficeworkscomaualto);
+}
+
+.www-officeworks-com .combobox {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 7px 5px 7px 12px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  margin-right: -1.1px;
+  background-color: var(--wwwofficeworkscomaunero);
+  border-radius: 3px;
+}
+
+.www-officeworks-com .div-placeholder {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 73.43px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-11 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-officeworks-com-au-inter-regular-13-02-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-regular-13-02-font-weight);
+  color: var(--wwwofficeworkscomaudusty-gray);
+  font-size: var(--www-officeworks-com-au-inter-regular-13-02-font-size);
+  letter-spacing: var(--www-officeworks-com-au-inter-regular-13-02-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-regular-13-02-line-height);
+  font-style: var(--www-officeworks-com-au-inter-regular-13-02-font-style);
+}
+
+.www-officeworks-com .button-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 2px 20px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  margin-left: -0.01px;
+}
+
+.www-officeworks-com .span-button-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  height: 30px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 8px 11px;
+  position: relative;
+  background-color: var(--wwwofficeworkscomaunavy-blue);
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: var(--wwwofficeworkscomaunavy-blue);
+}
+
+.www-officeworks-com .span-button-2 {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .span-button-3 {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-12 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunero);
+  font-size: 13.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .div-16 {
+  min-width: 18px;
+  flex: 0 0 auto;
+  min-height: 20px;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .heading-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 145.49px 0.5px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.16px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 19.5px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .div-trackyourorder {
+  display: flex;
+  align-items: flex-start;
+  gap: 2.84e-14px;
+  padding: 0px 0.01px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .input {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 7px 13px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  margin-right: -0.58px;
+  background-color: var(--wwwofficeworkscomaunero);
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: var(--wwwofficeworkscomaualto);
+}
+
+.www-officeworks-com .div-placeholder-2 {
+  padding: 0px 71.9px 0px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-14 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaudusty-gray);
+  font-size: 13.2px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.www-officeworks-com .button-margin {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 0px 0px 20px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .button-3 {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: column;
+  height: 30px;
+  align-items: flex-start;
+  padding: 8px 11px;
+  position: relative;
+  background-color: var(--wwwofficeworkscomaunavy-blue);
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: var(--wwwofficeworkscomaunavy-blue);
+}
+
+.www-officeworks-com .span-button-4 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-15 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunero);
+  font-size: 13.3px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .div-section-homepage-2 {
+  width: 100%;
+  height: 3511.59px;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .div-strip-tiles {
+  display: flex;
+  max-width: 1220px;
+  width: 1180px;
+  align-items: flex-start;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-officeworks-com .div-strip-tile-left {
+  padding: 60.98px 10px 62.57px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-3 {
+  position: relative;
+  width: 580px;
+  height: 17px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwofficeworkscomauendeavour);
+}
+
+.www-officeworks-com .optimise-wrapper {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  top: -61px;
+}
+
+.www-officeworks-com .optimise-2 {
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/optimise-1.png);
+  position: relative;
+  max-width: 580px;
+  width: 580px;
+  height: 140.55px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .div-strip-tile-right {
+  padding: 60.98px 0px 62.57px 10px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .optimise-3 {
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/optimise.png);
+  position: relative;
+  max-width: 580px;
+  width: 580px;
+  height: 140.55px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .overlap {
+  position: absolute;
+  width: 1180px;
+  height: 1370px;
+  top: 141px;
+  left: 0;
+}
+
+.www-officeworks-com .div-17 {
+  display: flex;
+  flex-direction: column;
+  width: 1180px;
+  align-items: flex-start;
+  padding: 30px 0px 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-officeworks-com .div-18 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .div-homepage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .heading-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 469.26px 0.25px 469.27px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-16 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-left: -0.26px;
+  margin-right: -0.27px;
+  font-family: var(--www-officeworks-com-au-inter-bold-25-7-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-bold-25-7-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-bold-25-7-font-size);
+  text-align: center;
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-25-7-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-25-7-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-bold-25-7-font-style);
+}
+
+.www-officeworks-com .div-ow-cat-tiles {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 10px 0px;
+  padding: 0px 5px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .div-essentials {
+  display: flex;
+  flex-direction: column;
+  width: 285px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .link-4 {
+  display: flex;
+  flex-direction: column;
+  min-height: 100px;
+  align-items: center;
+  padding: 21px 32.5px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .div-cdq-element {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 20px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .phones-png-wrapper {
+  background-color: var(--wwwofficeworkscomauvanilla-ice);
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .phones-png {
+  position: relative;
+  max-width: 220px;
+  width: 220px;
+  max-height: 220px;
+  height: 220px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/phones-png@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .heading-wrapper-2 {
+  display: inline-flex;
+  flex-direction: column;
+  max-width: 285px;
+  align-items: flex-start;
+  padding: 20px 0px 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .heading-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 0px 0.25px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-17 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-officeworks-com-au-inter-bold-17-3-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-bold-17-3-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-bold-17-3-font-size);
+  text-align: center;
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-17-3-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-17-3-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-bold-17-3-font-style);
+}
+
+.www-officeworks-com .link-5 {
+  display: flex;
+  flex-direction: column;
+  min-height: 100px;
+  align-items: center;
+  padding: 21px 30.5px 21px 30.48px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .headphones-and-wrapper {
+  background-color: var(--wwwofficeworkscomautropical-blue);
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .headphones-and {
+  position: relative;
+  max-width: 220px;
+  width: 220px;
+  max-height: 220px;
+  height: 220px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/headphones-and-earphones-png@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .headphones-earphones {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-officeworks-com-au-inter-bold-17-72-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-bold-17-72-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-bold-17-72-font-size);
+  text-align: center;
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-17-72-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-17-72-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-bold-17-72-font-style);
+}
+
+.www-officeworks-com .stationery-png-wrapper {
+  background-color: var(--wwwofficeworkscomaublue-haze);
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .stationery-png {
+  position: relative;
+  max-width: 220px;
+  width: 220px;
+  max-height: 220px;
+  height: 220px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/stationery-png@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .text-wrapper-18 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-officeworks-com-au-inter-bold-17-44-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-bold-17-44-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-bold-17-44-font-size);
+  text-align: center;
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-17-44-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-17-44-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-bold-17-44-font-style);
+}
+
+.www-officeworks-com .div-cdq-element-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--wwwofficeworkscomaubanana-mania);
+}
+
+.www-officeworks-com .photos-png {
+  position: relative;
+  max-width: 220px;
+  width: 220px;
+  max-height: 220px;
+  height: 220px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/photos-png@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .text-wrapper-19 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-officeworks-com-au-inter-bold-17-02-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-bold-17-02-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-bold-17-02-font-size);
+  text-align: center;
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-17-02-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-17-02-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-bold-17-02-font-style);
+}
+
+.www-officeworks-com .heading-7 {
+  padding: 0px 520.98px 0.25px 520.97px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.www-officeworks-com .text-wrapper-20 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-officeworks-com-au-inter-bold-25-09-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-bold-25-09-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-bold-25-09-font-size);
+  text-align: center;
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-25-09-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-25-09-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-bold-25-09-font-style);
+}
+
+.www-officeworks-com .link-6 {
+  display: flex;
+  flex-direction: column;
+  min-height: 100px;
+  align-items: center;
+  padding: 21px 32.5px 43.5px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .laptop-png {
+  position: relative;
+  max-width: 220px;
+  width: 220px;
+  max-height: 220px;
+  height: 220px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/laptop-png@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .text-wrapper-21 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-officeworks-com-au-inter-bold-17-58-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-bold-17-58-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-bold-17-58-font-size);
+  text-align: center;
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-17-58-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-17-58-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-bold-17-58-font-style);
+}
+
+.www-officeworks-com .furniture-chair-png-wrapper {
+  background-color: var(--wwwofficeworkscomaupowder-blue);
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .furniture-chair-png {
+  position: relative;
+  max-width: 220px;
+  width: 220px;
+  max-height: 220px;
+  height: 220px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/furniture-chair-png@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .text-wrapper-22 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-officeworks-com-au-inter-bold-16-88-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-bold-16-88-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-bold-16-88-font-size);
+  text-align: center;
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-16-88-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-16-88-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-bold-16-88-font-style);
+}
+
+.www-officeworks-com .link-7 {
+  display: flex;
+  flex-direction: column;
+  min-height: 100px;
+  align-items: center;
+  padding: 21px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .presentation-filing-wrapper {
+  background-color: var(--wwwofficeworkscomaumaize);
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .presentation-filing {
+  position: relative;
+  max-width: 220px;
+  width: 220px;
+  max-height: 220px;
+  height: 220px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/presentation-filing-v2-png@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .document-filing-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 43.84px 0.25px 43.83px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .document-filing {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-officeworks-com-au-inter-bold-17-44-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-bold-17-44-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-bold-17-44-font-size);
+  text-align: center;
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-17-44-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-17-44-line-height);
+  font-style: var(--www-officeworks-com-au-inter-bold-17-44-font-style);
+}
+
+.www-officeworks-com .computer-accessories-wrapper {
+  background-color: var(--wwwofficeworkscomauberyl-green);
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .computer-accessories {
+  position: relative;
+  max-width: 220px;
+  width: 220px;
+  max-height: 220px;
+  height: 220px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/computer-accessories-png@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .div-sc-bdvaja-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 1180px;
+  align-items: flex-start;
+  padding: 20px 0px 40px;
+  position: absolute;
+  top: 836px;
+  left: 0;
+}
+
+.www-officeworks-com .div-sc-bdvaja-4 {
+  position: relative;
+  align-self: stretch;
+  max-width: 1920px;
+  width: 100%;
+  height: 473.5px;
+}
+
+.www-officeworks-com .heading-8 {
+  display: flex;
+  flex-direction: column;
+  width: 1180px;
+  align-items: flex-start;
+  padding: 0px 1067.78px 0px 15px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-officeworks-com .text-wrapper-23 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-officeworks-com-au-inter-medium-17-16-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-medium-17-16-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-medium-17-16-font-size);
+  letter-spacing: var(--www-officeworks-com-au-inter-medium-17-16-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-medium-17-16-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-medium-17-16-font-style);
+}
+
+.www-officeworks-com .div-pagination-div {
+  display: flex;
+  width: 1180px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 554px;
+  position: absolute;
+  top: 456px;
+  left: 0;
+}
+
+.www-officeworks-com .div-paginationdot-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 18px;
+  align-items: flex-start;
+  padding: 3px;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .div-paginationdot {
+  position: relative;
+  width: 12px;
+  height: 12px;
+  background-color: var(--wwwofficeworkscomaunavy-blue);
+  border-radius: 6px;
+}
+
+.www-officeworks-com .div-paginationdot-2 {
+  position: relative;
+  width: 12px;
+  height: 12px;
+  background-color: var(--wwwofficeworkscomaugallery);
+  border-radius: 6px;
+}
+
+.www-officeworks-com .div-sc-bdvaja-5 {
+  display: flex;
+  width: 1180px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 42px;
+  left: 0;
+}
+
+.www-officeworks-com .div-carousel {
+  position: absolute;
+  width: 60px;
+  height: 30px;
+  top: 181px;
+  left: -60px;
+}
+
+.www-officeworks-com .div-react-swipeable-wrapper {
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  height: 393px;
+  overflow: hidden;
+}
+
+.www-officeworks-com .div-react-swipeable {
+  display: flex;
+  width: 9676px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 0px 0px 8496px;
+  position: relative;
+  left: -8496px;
+}
+
+.www-officeworks-com .div-19 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 0px 1px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.www-officeworks-com .div-sc-bdvaja-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 11px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  border: 1px solid;
+  border-color: var(--wwwofficeworkscomaualto);
+}
+
+.www-officeworks-com .div-20 {
+  display: flex;
+  flex-direction: column;
+  height: 195px;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 12px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-officeworks-com .fit-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 5.99px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-top: -0.5px;
+  margin-bottom: -0.5px;
+}
+
+.www-officeworks-com .fit {
+  position: relative;
+  max-width: 190px;
+  width: 190px;
+  max-height: 195.98px;
+  height: 190px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/fit-9@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .div-sc-bdvaja-7 {
+  position: absolute;
+  width: 66px;
+  height: 72px;
+  top: -5px;
+  left: 153px;
+}
+
+.www-officeworks-com .div-21 {
+  height: 175px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-officeworks-com .div-productprice {
+  display: flex;
+  flex-direction: column;
+  width: 214px;
+  align-items: flex-start;
+  padding: 0px 129px 0px 0px;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.www-officeworks-com .text-wrapper-24 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 24.7px;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-8 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 41px;
+  left: 0;
+}
+
+.www-officeworks-com .heading-9 {
+  position: relative;
+  width: 214px;
+  height: 40px;
+  overflow: hidden;
+}
+
+.www-officeworks-com .j-burrows-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 25.7px 0.14px 0px;
+  position: relative;
+}
+
+.www-officeworks-com .p {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-officeworks-com-au-inter-regular-13-23-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-regular-13-23-font-weight);
+  color: var(--wwwofficeworkscomautundora);
+  font-size: var(--www-officeworks-com-au-inter-regular-13-23-font-size);
+  letter-spacing: var(--www-officeworks-com-au-inter-regular-13-23-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-regular-13-23-line-height);
+  font-style: var(--www-officeworks-com-au-inter-regular-13-23-font-style);
+}
+
+.www-officeworks-com .div-22 {
+  display: flex;
+  flex-direction: column;
+  width: 214px;
+  align-items: flex-start;
+  gap: 5px;
+  padding: 0px 0px 5px;
+  position: absolute;
+  top: 91px;
+  left: 0;
+}
+
+.www-officeworks-com .div-addtocart {
+  all: unset;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .span-addtocartbutton {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .button-4 {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px 20px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--wwwofficeworkscomaujapanese-laurel);
+  border-radius: 3px;
+}
+
+.www-officeworks-com .span-button-5 {
+  all: unset;
+  box-sizing: border-box;
+  padding: 0px 33.89px 0px 38.89px;
+  align-self: stretch;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .span-button-6 {
+  all: unset;
+  box-sizing: border-box;
+  min-height: 19px;
+  align-items: flex-end;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-25 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  z-index: 1;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunero);
+  font-size: 13.6px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .ico-cart-white-svg {
+  position: relative;
+  width: 101.22px;
+  height: 21px;
+  margin-top: -20.5px;
+  z-index: 0;
+}
+
+.www-officeworks-com .div-wishlist-btn {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  margin-right: -0.56px;
+}
+
+.www-officeworks-com .button-5 {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 6px 11px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  background-color: var(--wwwofficeworkscomaunero);
+  border-radius: 3px 0px 0px 3px;
+  border: 1px solid;
+  border-color: var(--wwwofficeworkscomaualto);
+}
+
+.www-officeworks-com .span-button-7 {
+  padding: 0px 37.28px;
+  align-self: stretch;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .SVG {
+  position: relative;
+  width: 16px;
+  height: 12px;
+}
+
+.www-officeworks-com .span-button-8 {
+  align-items: center;
+  justify-content: center;
+  padding: 0px 0px 0.5px;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-26 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 13.8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .fit-2 {
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/fit-8@2x.png);
+  position: relative;
+  max-width: 190px;
+  width: 190px;
+  max-height: 195.98px;
+  height: 190px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .div-productprice-2 {
+  padding: 0px 127.94px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  width: 214px;
+  align-items: flex-start;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.www-officeworks-com .text-wrapper-27 {
+  margin-right: -0.94px;
+  font-size: 25.5px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .aqua-to-go-l-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 24.62px 0.14px 0px;
+  position: relative;
+}
+
+.www-officeworks-com .text-wrapper-28 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.5px;
+  letter-spacing: 0;
+  line-height: 20.3px;
+}
+
+.www-officeworks-com .fit-3 {
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/fit-7@2x.png);
+  position: relative;
+  max-width: 190px;
+  width: 190px;
+  max-height: 195.98px;
+  height: 190px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .div-sc-bdvaja-8 {
+  position: absolute;
+  width: 66px;
+  height: 74px;
+  top: -5px;
+  left: 153px;
+}
+
+.www-officeworks-com .div-productprice-3 {
+  padding: 0px 141.53px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  width: 214px;
+  align-items: flex-start;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.www-officeworks-com .text-wrapper-29 {
+  margin-right: -0.53px;
+  font-size: 25.2px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .aqua-to-go-premium-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 38.91px 0.14px 0px;
+  position: relative;
+}
+
+.www-officeworks-com .fit-4 {
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/fit-6@2x.png);
+  position: relative;
+  max-width: 190px;
+  width: 190px;
+  max-height: 195.98px;
+  height: 190px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .div-productprice-4 {
+  padding: 0px 130.19px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  width: 214px;
+  align-items: flex-start;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.www-officeworks-com .text-wrapper-30 {
+  margin-right: -0.19px;
+  font-size: 25.2px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .keji-copy-paper-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 29.56px 0.14px 0px;
+  position: relative;
+}
+
+.www-officeworks-com .fit-5 {
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/fit-5@2x.png);
+  position: relative;
+  max-width: 190px;
+  width: 190px;
+  max-height: 195.98px;
+  height: 190px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .div-productprice-5 {
+  padding: 0px 140.94px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  width: 214px;
+  align-items: flex-start;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.www-officeworks-com .text-wrapper-31 {
+  margin-right: -0.94px;
+  font-size: 25.3px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .keji-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 37.84px 0.14px 0px;
+  position: relative;
+}
+
+.www-officeworks-com .div-carousel-2 {
+  position: absolute;
+  width: 60px;
+  height: 30px;
+  top: 181px;
+  left: 1180px;
+}
+
+.www-officeworks-com .div-23 {
+  display: flex;
+  flex-direction: column;
+  width: 1180px;
+  align-items: flex-start;
+  padding: 20px 0px 40px;
+  position: absolute;
+  top: 1511px;
+  left: 0;
+}
+
+.www-officeworks-com .heading-10 {
+  display: flex;
+  flex-direction: column;
+  width: 1180px;
+  align-items: flex-start;
+  padding: 0px 1009.25px 0px 15px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-officeworks-com .text-wrapper-32 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.25px;
+  font-family: var(--www-officeworks-com-au-inter-medium-17-72-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-medium-17-72-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-medium-17-72-font-size);
+  letter-spacing: var(--www-officeworks-com-au-inter-medium-17-72-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-medium-17-72-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-medium-17-72-font-style);
+}
+
+.www-officeworks-com .div-pagination-div-2 {
+  display: flex;
+  width: 1180px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 563px;
+  position: absolute;
+  top: 456px;
+  left: 0;
+}
+
+.www-officeworks-com .div-carousel-3 {
+  position: absolute;
+  width: 60px;
+  height: 30px;
+  top: 182px;
+  left: -60px;
+}
+
+.www-officeworks-com .div-react-swipeable-2 {
+  display: flex;
+  width: 6844px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 0px 0px 5664px;
+  position: relative;
+  left: -5664px;
+}
+
+.www-officeworks-com .fit-6 {
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/fit-4@2x.png);
+  position: relative;
+  max-width: 190px;
+  width: 190px;
+  max-height: 195.98px;
+  height: 190px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .div-productprice-6 {
+  padding: 0px 110.72px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  width: 214px;
+  align-items: flex-start;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.www-officeworks-com .text-wrapper-33 {
+  margin-right: -0.72px;
+  font-size: 25.3px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .heading-11 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 40px;
+  align-items: flex-start;
+  padding: 0px 0px 19.71px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .div-24 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 17.08px 0.14px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-bottom: -0.85px;
+}
+
+.www-officeworks-com .text-wrapper-34 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.5px;
+  letter-spacing: 0;
+  line-height: 20.3px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .fit-7 {
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/fit-3@2x.png);
+  position: relative;
+  max-width: 190px;
+  width: 190px;
+  max-height: 195.98px;
+  height: 190px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .div-productprice-7 {
+  padding: 0px 125.09px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  width: 214px;
+  align-items: flex-start;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.www-officeworks-com .text-wrapper-35 {
+  margin-right: -0.09px;
+  font-size: 25.1px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .fit-8 {
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/fit-2@2x.png);
+  position: relative;
+  max-width: 190px;
+  width: 190px;
+  max-height: 195.98px;
+  height: 190px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .div-productprice-8 {
+  padding: 0px 112.95px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  width: 214px;
+  align-items: flex-start;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.www-officeworks-com .text-wrapper-36 {
+  font-size: 24.5px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .div-25 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 26.47px 0.14px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-bottom: -0.85px;
+}
+
+.www-officeworks-com .fit-9 {
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/fit-1@2x.png);
+  position: relative;
+  max-width: 190px;
+  width: 190px;
+  max-height: 195.98px;
+  height: 190px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .div-productprice-9 {
+  padding: 0px 110.67px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  width: 214px;
+  align-items: flex-start;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.www-officeworks-com .text-wrapper-37 {
+  margin-right: -0.67px;
+  font-size: 25.4px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .apple-airpods-with-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0.14px;
+  position: relative;
+}
+
+.www-officeworks-com .apple-airpods-with {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.1px;
+  letter-spacing: 0;
+  line-height: 20.3px;
+}
+
+.www-officeworks-com .fit-10 {
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/fit@2x.png);
+  position: relative;
+  max-width: 190px;
+  width: 190px;
+  max-height: 195.98px;
+  height: 190px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .div-productprice-10 {
+  padding: 0px 114.36px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  width: 214px;
+  align-items: flex-start;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.www-officeworks-com .text-wrapper-38 {
+  margin-right: -0.36px;
+  font-size: 24.8px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .div-26 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 57.84px 0.14px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-bottom: -0.85px;
+}
+
+.www-officeworks-com .text-wrapper-39 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-officeworks-com-au-inter-regular-12-91-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-regular-12-91-font-weight);
+  color: var(--wwwofficeworkscomautundora);
+  font-size: var(--www-officeworks-com-au-inter-regular-12-91-font-size);
+  letter-spacing: var(--www-officeworks-com-au-inter-regular-12-91-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-regular-12-91-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-regular-12-91-font-style);
+}
+
+.www-officeworks-com .div-carousel-4 {
+  position: absolute;
+  width: 60px;
+  height: 30px;
+  top: 182px;
+  left: 1180px;
+}
+
+.www-officeworks-com .div-27 {
+  display: flex;
+  flex-direction: column;
+  width: 1180px;
+  align-items: flex-start;
+  padding: 20px 0px 0px;
+  position: absolute;
+  top: 2044px;
+  left: 0;
+}
+
+.www-officeworks-com .div-28 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .div-ow-find {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 32.5px;
+}
+
+.www-officeworks-com .what-s-new-trending-wrapper {
+  width: 940px;
+  padding: 0px 327.42px 0.25px 327.41px;
+  position: absolute;
+  top: 0;
+  left: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.www-officeworks-com .what-s-new-trending {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-left: -0.42px;
+  margin-right: -0.42px;
+  font-family: var(--www-officeworks-com-au-inter-bold-25-19-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-bold-25-19-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-bold-25-19-font-size);
+  text-align: center;
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-25-19-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-25-19-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-bold-25-19-font-style);
+}
+
+.www-officeworks-com .div-explore-more {
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  align-items: center;
+  padding: 1px 0px 2.98px;
+  position: absolute;
+  top: -2px;
+  left: 1080px;
+}
+
+.www-officeworks-com .link-9 {
+  display: inline-flex;
+  height: 16px;
+  align-items: center;
+  gap: 10px;
+  padding: 0px 1.42e-14px 0px 0px;
+  position: relative;
+  margin-left: -0.37px;
+  margin-right: -0.37px;
+}
+
+.www-officeworks-com .text-wrapper-40 {
+  position: relative;
+  width: fit-content;
+  margin-top: -3px;
+  margin-bottom: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 13.5px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .img-2 {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .div-ow-content-grid {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 20px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.www-officeworks-com .link-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1px 21px 91px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 3px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--wwwofficeworkscomaualto);
+}
+
+.www-officeworks-com .link-10 {
+  position: relative;
+  width: 338px;
+  height: 476.36px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwofficeworkscomauendeavour);
+}
+
+.www-officeworks-com .div-ow-content-grid-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: -20px;
+  border-radius: 3px 3px 0px 0px;
+  overflow: hidden;
+}
+
+.www-officeworks-com .div-wrapper-3 {
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  display: inline-flex;
+  position: relative;
+}
+
+.www-officeworks-com .resize {
+  position: relative;
+  flex: 1;
+  max-width: 378px;
+  flex-grow: 1;
+  height: 236.48px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/resize-5@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .replace-your-old-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 3.39px 0.94px 0px;
+  position: absolute;
+  top: 315px;
+  left: 0;
+}
+
+.www-officeworks-com .text-wrapper-41 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.www-officeworks-com .trade-in-your-tech-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 35.36px 0.5px 0px;
+  position: absolute;
+  top: 256px;
+  left: 0;
+}
+
+.www-officeworks-com .trade-in-your-tech {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 19.5px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.www-officeworks-com .span-btn {
+  display: inline-flex;
+  height: 21px;
+  align-items: center;
+  gap: 1px;
+  padding: 0px 0px 2.98px;
+  position: absolute;
+  top: 525px;
+  left: 0;
+  background-color: var(--wwwofficeworkscomaunero);
+}
+
+.www-officeworks-com .text-wrapper-42 {
+  position: relative;
+  width: fit-content;
+  margin-top: -2px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 13.9px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .after {
+  position: relative;
+  min-width: 10px;
+  flex: 0 0 auto;
+  min-height: 10px;
+}
+
+.www-officeworks-com .div-ow-content-grid-3 {
+  padding: 1px 21px 195.94px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 3px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--wwwofficeworkscomaualto);
+}
+
+.www-officeworks-com .link-11 {
+  position: relative;
+  width: 338px;
+  height: 371.42px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwofficeworkscomauendeavour);
+}
+
+.www-officeworks-com .resize-2 {
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/resize-4@2x.png);
+  position: relative;
+  flex: 1;
+  max-width: 378px;
+  flex-grow: 1;
+  height: 236.48px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .this-range-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 7.23px 0.96px 0px;
+  position: absolute;
+  top: 290px;
+  left: 0;
+}
+
+.www-officeworks-com .heading-the-otto {
+  position: absolute;
+  width: 192px;
+  height: 25px;
+  top: 255px;
+  left: 0;
+  font-family: var(--www-officeworks-com-au-inter-medium-19-69-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-medium-19-69-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-medium-19-69-font-size);
+  letter-spacing: var(--www-officeworks-com-au-inter-medium-19-69-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-medium-19-69-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-medium-19-69-font-style);
+}
+
+.www-officeworks-com .div-ow-content-grid-4 {
+  padding: 1px 21px 150.95px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 3px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--wwwofficeworkscomaualto);
+}
+
+.www-officeworks-com .link-12 {
+  position: relative;
+  width: 338px;
+  height: 416.41px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwofficeworkscomauendeavour);
+}
+
+.www-officeworks-com .resize-3 {
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/resize-3@2x.png);
+  position: relative;
+  flex: 1;
+  max-width: 378px;
+  flex-grow: 1;
+  height: 236.48px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .for-a-month-or-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 1.03px 0.95px 0px;
+  position: absolute;
+  top: 315px;
+  left: 0;
+}
+
+.www-officeworks-com .onepass-is-now-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 50.41px 0.5px 0px;
+  position: absolute;
+  top: 256px;
+  left: 0;
+}
+
+.www-officeworks-com .text-wrapper-43 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.www-officeworks-com .div-ow-content-grid-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 1200px;
+  align-items: flex-start;
+  position: absolute;
+  top: 2715px;
+  left: -20px;
+}
+
+.www-officeworks-com .div-ow-content-grid-5 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 20px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -20px;
+}
+
+.www-officeworks-com .div-ow-content-grid-6 {
+  padding: 1px 21px 128.29px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 3px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--wwwofficeworkscomaualto);
+}
+
+.www-officeworks-com .link-13 {
+  position: relative;
+  width: 338px;
+  height: 376.44px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwofficeworkscomauendeavour);
+}
+
+.www-officeworks-com .resize-4 {
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/resize-2@2x.png);
+  position: relative;
+  flex: 1;
+  max-width: 378px;
+  flex-grow: 1;
+  height: 236.48px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .get-all-your-study-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 5.72px 0.96px 0px;
+  position: absolute;
+  top: 315px;
+  left: 0;
+}
+
+.www-officeworks-com .we-won-t-be-beaten-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 8.44px 0.5px 0px;
+  position: absolute;
+  top: 256px;
+  left: 0;
+}
+
+.www-officeworks-com .span-btn-2 {
+  display: inline-flex;
+  height: 21px;
+  align-items: center;
+  gap: 1px;
+  padding: 0px 0px 2.98px;
+  position: absolute;
+  top: 463px;
+  left: 0;
+  background-color: var(--wwwofficeworkscomaunero);
+}
+
+.www-officeworks-com .div-ow-content-grid-7 {
+  padding: 1px 21px 108.31px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 3px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--wwwofficeworkscomaualto);
+}
+
+.www-officeworks-com .link-14 {
+  position: relative;
+  width: 338px;
+  height: 396.42px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwofficeworkscomauendeavour);
+}
+
+.www-officeworks-com .resize-5 {
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/resize-1@2x.png);
+  position: relative;
+  flex: 1;
+  max-width: 378px;
+  flex-grow: 1;
+  height: 236.48px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .we-re-committed-to-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0.25px 0.96px 0px;
+  position: absolute;
+  top: 315px;
+  left: 0;
+}
+
+.www-officeworks-com .we-re-committed-to {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 12.9px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.www-officeworks-com .regenerating-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 104.5px 0.5px 0px;
+  position: absolute;
+  top: 256px;
+  left: 0;
+}
+
+.www-officeworks-com .link-15 {
+  position: relative;
+  width: 338px;
+  height: 413.73px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwofficeworkscomauendeavour);
+}
+
+.www-officeworks-com .resize-6 {
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/resize@2x.png);
+  position: relative;
+  flex: 1;
+  max-width: 378px;
+  flex-grow: 1;
+  height: 236.48px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .p-2 {
+  position: absolute;
+  width: 338px;
+  height: 64px;
+  top: 316px;
+  left: 0;
+}
+
+.www-officeworks-com .purchased-something {
+  position: absolute;
+  width: 333px;
+  height: 40px;
+  top: -2px;
+  left: 0;
+  font-family: var(--www-officeworks-com-au-inter-regular-13-13-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-regular-13-13-font-weight);
+  color: var(--wwwofficeworkscomautundora);
+  font-size: var(--www-officeworks-com-au-inter-regular-13-13-font-size);
+  letter-spacing: var(--www-officeworks-com-au-inter-regular-13-13-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-regular-13-13-line-height);
+  font-style: var(--www-officeworks-com-au-inter-regular-13-13-font-style);
+}
+
+.www-officeworks-com .overlap-group-4 {
+  position: absolute;
+  width: 132px;
+  height: 23px;
+  top: 38px;
+  left: 0;
+}
+
+.www-officeworks-com .text-wrapper-44 {
+  position: absolute;
+  width: 127px;
+  height: 20px;
+  top: 3px;
+  left: 0;
+  font-family: var(--www-officeworks-com-au-inter-regular-12-69-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-regular-12-69-font-weight);
+  color: var(--wwwofficeworkscomautundora);
+  font-size: var(--www-officeworks-com-au-inter-regular-12-69-font-size);
+  letter-spacing: var(--www-officeworks-com-au-inter-regular-12-69-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-regular-12-69-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-regular-12-69-font-style);
+}
+
+.www-officeworks-com .superscript-4 {
+  width: 6px;
+  height: 17px;
+  top: 0;
+  left: 127px;
+  font-weight: var(--www-officeworks-com-au-inter-regular-11-7-font-weight);
+  color: var(--wwwofficeworkscomautundora);
+  font-size: var(--www-officeworks-com-au-inter-regular-11-7-font-size);
+  line-height: var(--www-officeworks-com-au-inter-regular-11-7-line-height);
+  white-space: nowrap;
+  position: absolute;
+  font-family: var(--www-officeworks-com-au-inter-regular-11-7-font-family);
+  letter-spacing: var(--www-officeworks-com-au-inter-regular-11-7-letter-spacing);
+  font-style: var(--www-officeworks-com-au-inter-regular-11-7-font-style);
+}
+
+.www-officeworks-com .overlap-wrapper {
+  position: absolute;
+  width: 338px;
+  height: 24px;
+  top: 390px;
+  left: 0;
+}
+
+.www-officeworks-com .overlap-2 {
+  position: relative;
+  width: 81px;
+  height: 23px;
+  top: -2px;
+}
+
+.www-officeworks-com .superscript-5 {
+  width: 6px;
+  height: 17px;
+  top: 0;
+  left: 0;
+  font-weight: var(--www-officeworks-com-au-inter-regular-11-7-font-weight);
+  color: var(--wwwofficeworkscomautundora);
+  font-size: var(--www-officeworks-com-au-inter-regular-11-7-font-size);
+  line-height: var(--www-officeworks-com-au-inter-regular-11-7-line-height);
+  white-space: nowrap;
+  position: absolute;
+  font-family: var(--www-officeworks-com-au-inter-regular-11-7-font-family);
+  letter-spacing: var(--www-officeworks-com-au-inter-regular-11-7-letter-spacing);
+  font-style: var(--www-officeworks-com-au-inter-regular-11-7-font-style);
+}
+
+.www-officeworks-com .t-c-s-apply {
+  position: absolute;
+  width: 75px;
+  height: 20px;
+  top: 3px;
+  left: 5px;
+  font-family: var(--www-officeworks-com-au-inter-regular-13-45-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-regular-13-45-font-weight);
+  color: var(--wwwofficeworkscomautundora);
+  font-size: var(--www-officeworks-com-au-inter-regular-13-45-font-size);
+  letter-spacing: var(--www-officeworks-com-au-inter-regular-13-45-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-regular-13-45-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-regular-13-45-font-style);
+}
+
+.www-officeworks-com .leave-a-review-for-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 18.81px 0.5px 0px;
+  position: absolute;
+  top: 256px;
+  left: 0;
+}
+
+.www-officeworks-com .leave-a-review-for {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 19.8px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.www-officeworks-com .overlap-3 {
+  position: absolute;
+  width: 1180px;
+  height: 271px;
+  top: 3261px;
+  left: 0;
+}
+
+.www-officeworks-com .div-trackyourorder-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 1180px;
+  align-items: flex-start;
+  padding: 0px 0px 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-officeworks-com .div-trackyourorder-2 {
+  align-items: center;
+  padding: 21px 21px 21px 41px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--wwwofficeworkscomaunavy-blue);
+  border-radius: 3px;
+  border: 1px solid;
+  display: flex;
+  position: relative;
+  border-color: var(--wwwofficeworkscomaunavy-blue);
+}
+
+.www-officeworks-com .div-trackyourorder-3 {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  display: flex;
+  position: relative;
+}
+
+.www-officeworks-com .heading-12 {
+  position: relative;
+  width: 310.56px;
+  height: 35px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/ico-freedelivery-white-svg-fill.svg);
+  background-size: 100% 100%;
+}
+
+.www-officeworks-com .text-wrapper-45 {
+  position: absolute;
+  width: 157px;
+  height: 25px;
+  top: 4px;
+  left: 40px;
+  font-family: var(--www-officeworks-com-au-inter-medium-19-84-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-medium-19-84-font-weight);
+  color: var(--wwwofficeworkscomaunero);
+  font-size: var(--www-officeworks-com-au-inter-medium-19-84-font-size);
+  letter-spacing: var(--www-officeworks-com-au-inter-medium-19-84-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-medium-19-84-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-medium-19-84-font-style);
+}
+
+.www-officeworks-com .input-wrapper {
+  flex-direction: column;
+  width: 614.89px;
+  align-items: flex-start;
+  padding: 0px 10px 0px 0px;
+  display: flex;
+  position: relative;
+}
+
+.www-officeworks-com .div-placeholder-wrapper {
+  padding: 11.5px 11px;
+  margin-right: -0.06px;
+  border: 1px solid;
+  border-color: var(--wwwofficeworkscomaualto);
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  background-color: var(--wwwofficeworkscomaunero);
+  border-radius: 3px;
+}
+
+.www-officeworks-com .div-placeholder-3 {
+  padding: 0px 437.95px 1px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-46 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaudusty-gray);
+  font-size: 15.1px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .div-trackyourorder-4 {
+  flex-direction: column;
+  width: 192.56px;
+  align-items: flex-start;
+  padding: 0px 113.97px 0px 0px;
+  margin-right: -0.01px;
+  display: flex;
+  position: relative;
+}
+
+.www-officeworks-com .button-6 {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 11px 21px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -0.41px;
+  background-color: var(--wwwofficeworkscomaunero);
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: var(--wwwofficeworkscomaualto);
+}
+
+.www-officeworks-com .text-wrapper-47 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 13.3px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .div-container-fluid-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 1180px;
+  align-items: center;
+  padding: 0px 10px 0px 0px;
+  position: absolute;
+  top: 85px;
+  left: 0;
+}
+
+.www-officeworks-com .div-container-fluid {
+  display: flex;
+  flex-direction: column;
+  max-width: 1220px;
+  width: 1190px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.www-officeworks-com .div-ow-content-grid-8 {
+  display: flex;
+  width: 1200px;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 0px 20px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -10px;
+}
+
+.www-officeworks-com .div-media-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px 20px 29.98px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.www-officeworks-com .div-media {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px 20px 20px 50px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .div-media-body {
+  position: relative;
+  width: 263.33px;
+  height: 105.97px;
+  overflow: hidden;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/ico-click-collect-laptop-svg-fill.svg);
+  background-size: 100% 100%;
+}
+
+.www-officeworks-com .buy-online-collect-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 7.72px 0.98px 0px;
+  position: absolute;
+  top: 55px;
+  left: 70px;
+}
+
+.www-officeworks-com .buy-online-collect {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.6px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.www-officeworks-com .heading-click {
+  position: absolute;
+  width: 138px;
+  height: 25px;
+  top: 25px;
+  left: 70px;
+  font-family: var(--www-officeworks-com-au-inter-medium-20-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-medium-20-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-medium-20-font-size);
+  letter-spacing: var(--www-officeworks-com-au-inter-medium-20-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-medium-20-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-medium-20-font-style);
+}
+
+.www-officeworks-com .div-media-body-2 {
+  width: 263.33px;
+  height: 105.97px;
+  overflow: hidden;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/ico-easyreturns-loop-svg-fill.svg);
+  position: relative;
+  background-size: 100% 100%;
+}
+
+.www-officeworks-com .change-your-mind-no-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 49.35px 0.98px 0px;
+  position: absolute;
+  top: 55px;
+  left: 70px;
+}
+
+.www-officeworks-com .change-your-mind-no {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.3px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.www-officeworks-com .heading-easy {
+  position: absolute;
+  width: 123px;
+  height: 25px;
+  top: 25px;
+  left: 70px;
+  font-family: var(--www-officeworks-com-au-inter-medium-19-53-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-medium-19-53-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-medium-19-53-font-size);
+  letter-spacing: var(--www-officeworks-com-au-inter-medium-19-53-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-medium-19-53-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-medium-19-53-font-style);
+}
+
+.www-officeworks-com .link-16 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px 20px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.www-officeworks-com .div-media-body-3 {
+  width: 263.34px;
+  height: 125.95px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/onepass-svg-fill.svg);
+  position: relative;
+  background-size: 100% 100%;
+}
+
+.www-officeworks-com .free-delivery-on-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 4.25px 0.96px 0px;
+  position: absolute;
+  top: 55px;
+  left: 70px;
+}
+
+.www-officeworks-com .free-delivery-on {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.1px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.www-officeworks-com .heading-join {
+  position: absolute;
+  width: 130px;
+  height: 25px;
+  top: 25px;
+  left: 70px;
+  font-family: var(--www-officeworks-com-au-inter-medium-19-84-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-medium-19-84-font-weight);
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: var(--www-officeworks-com-au-inter-medium-19-84-font-size);
+  letter-spacing: var(--www-officeworks-com-au-inter-medium-19-84-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-medium-19-84-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-medium-19-84-font-style);
+}
+
+.www-officeworks-com .footer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10.01px;
+  padding: 31px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: transparent;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-color: var(--wwwofficeworkscomaualto);
+}
+
+.www-officeworks-com .div-ow-app-hide {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 490.98px;
+}
+
+.www-officeworks-com .div-ow-inspiration {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  gap: 20.01px;
+  padding: 0px 0px 1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwofficeworkscomaualto);
+}
+
+.www-officeworks-com .list-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3.9px;
+  padding: 0px 413.01px 0px 427.02px;
+  width: 100%;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .div-wrapper-4 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-heading {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-end;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-48 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  z-index: 1;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .ico-keepintouch-svg {
+  position: relative;
+  width: 258.28px;
+  height: 25px;
+  margin-top: -24.5px;
+  z-index: 0;
+}
+
+.www-officeworks-com .item-2 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 30px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-49 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 13.7px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-17 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 11px 21px 10px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--wwwofficeworkscomaunavy-blue);
+  border-radius: 3px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-color: var(--wwwofficeworkscomaunavy-blue);
+}
+
+.www-officeworks-com .text-wrapper-50 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunero);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .alert {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 17.5px 642px 17.5px 672px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--wwwofficeworkscomaugallery);
+}
+
+.www-officeworks-com .p-product-recall {
+  padding: 0px 0px 0px 40px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .strong-product-wrapper {
+  padding: 0px 0px 0.5px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .strong-product {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaumine-shaft);
+  font-size: 13.2px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .span {
+  font-weight: 700;
+}
+
+.www-officeworks-com .text-wrapper-51 {
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #252525;
+  font-size: 13.2px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.www-officeworks-com .text-wrapper-52 {
+  text-decoration: underline;
+}
+
+.www-officeworks-com .list-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 1220px;
+  width: 1220px;
+  align-items: flex-start;
+  padding: 0px 0px 10px;
+  position: absolute;
+  top: 138px;
+  left: 350px;
+}
+
+.www-officeworks-com .list-3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px;
+  padding: 0px 211px 0px 24px;
+  width: 100%;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .item-3 {
+  display: flex;
+  flex-direction: column;
+  width: 181px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-officeworks-com .label {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 1;
+}
+
+.www-officeworks-com .heading-13 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 116.25px 0.5px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-53 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.25px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 13.8px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .list-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 0;
+}
+
+.www-officeworks-com .link-brand-directory-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 83.73px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-brand-directory {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.73px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.1px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-everyday-low-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 50.28px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-everyday-low {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.28px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.3px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-buying-guides-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 89.94px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-54 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.3px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-people-planet-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 35.44px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-people-planet {
+  font-size: 13.6px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-gift-cards-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 117.98px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-gift-cards {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.98px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.1px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-order-by-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 58.81px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-order-by {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.81px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.2px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .heading-14 {
+  display: inline-flex;
+  padding: 0px 119.78px 0.5px 0px;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-55 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 13.5px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-careers-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 131.2px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-careers {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.2px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.5px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .item-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 27.67px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-people-planet-2 {
+  margin-right: -0.67px;
+  font-size: 13.5px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-media-centre-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 96.95px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-media-centre {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.1px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-store-locator-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 96.94px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-store-locator {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.94px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.1px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-scam-warnings-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 82.7px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-56 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.5px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .heading-15 {
+  display: flex;
+  padding: 0px 62px 0.5px 0px;
+  align-self: stretch;
+  width: 100%;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-contact-us-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 111.75px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-contact-us {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.75px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-track-your-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 74.91px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-track-your {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.91px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.2px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-help-centre-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 106.3px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-help-centre {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.3px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.2px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-COVID-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 42.5px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-delivery-policy-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 89.19px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-delivery-policy {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.19px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.2px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-online-returns-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 87.61px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-returns-policy-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 90.73px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-product-recalls-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 82.95px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-password-reset-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 79.06px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-password-reset {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.06px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.5px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .heading-16 {
+  display: flex;
+  padding: 0px 125.44px 0.5px 0px;
+  align-self: stretch;
+  width: 100%;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-57 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.44px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 13.6px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-personal-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 72.03px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-personal {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.03px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.1px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-business-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 70.48px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-business {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.48px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomautundora);
+  font-size: 13.1px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .item-list {
+  position: relative;
+  width: 181px;
+  height: 68px;
+}
+
+.www-officeworks-com .item-link {
+  position: absolute;
+  width: 31px;
+  height: 25px;
+  top: 0;
+  left: 0;
+}
+
+.www-officeworks-com .item-link-2 {
+  width: 31px;
+  height: 25px;
+  top: 0;
+  left: 31px;
+  position: absolute;
+}
+
+.www-officeworks-com .item-link-SVG {
+  width: 22px;
+  height: 22px;
+  top: 0;
+  left: 62px;
+  position: absolute;
+}
+
+.www-officeworks-com .item-link-3 {
+  width: 31px;
+  height: 25px;
+  top: 34px;
+  left: 0;
+  position: absolute;
+}
+
+.www-officeworks-com .item-link-4 {
+  width: 31px;
+  height: 25px;
+  top: 34px;
+  left: 31px;
+  position: absolute;
+}
+
+.www-officeworks-com .item-link-SVG-2 {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 34px;
+  left: 62px;
+}
+
+.www-officeworks-com .separator-2 {
+  position: absolute;
+  width: 1920px;
+  height: 1px;
+  top: 446px;
+  left: 0;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: var(--wwwofficeworkscomaualto);
+}
+
+.www-officeworks-com .div-ow-policies {
+  display: flex;
+  width: 1920px;
+  align-items: flex-start;
+  gap: 23.9px;
+  padding: 0px 651.45px 9px 651.44px;
+  position: absolute;
+  top: 466px;
+  left: 0;
+}
+
+.www-officeworks-com .link-18 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 1px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-58 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 13.1px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 14px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .before {
+  position: absolute;
+  width: 1px;
+  height: 16px;
+  top: 0;
+  left: -11px;
+  background-color: var(--wwwofficeworkscomaualto);
+}
+
+.www-officeworks-com .text-wrapper-59 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaunavy-blue);
+  font-size: 13.5px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 14px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .div-ow-footer-tail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 360px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--wwwofficeworkscomaugallery);
+}
+
+.www-officeworks-com .div-flex-footer {
+  position: relative;
+  max-width: 1200px;
+  width: 1200px;
+  height: 30.86px;
+}
+
+.www-officeworks-com .div-ow-copyright {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 11px;
+  left: 20px;
+}
+
+.www-officeworks-com .text-wrapper-60 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaudusty-gray);
+  font-size: 11.1px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .div-flex-logos {
+  display: inline-flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0px 0px 3.27e-13px;
+  position: absolute;
+  top: 0;
+  left: 476px;
+}
+
+.www-officeworks-com .text-wrapper-61 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--www-officeworks-com-au-inter-regular-11-25-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-regular-11-25-font-weight);
+  color: var(--wwwofficeworkscomaumine-shaft);
+  font-size: var(--www-officeworks-com-au-inter-regular-11-25-font-size);
+  letter-spacing: var(--www-officeworks-com-au-inter-regular-11-25-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-regular-11-25-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-regular-11-25-font-style);
+}
+
+.www-officeworks-com .div-logos {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 20px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .img-margin {
+  width: 45px;
+  position: relative;
+  max-width: 664.55px;
+  max-height: 30px;
+  object-fit: cover;
+}
+
+.www-officeworks-com .img-margin-2 {
+  position: relative;
+  max-width: 664.55px;
+  width: 70px;
+  max-height: 30px;
+  object-fit: cover;
+}
+
+.www-officeworks-com .img-margin-3 {
+  width: 95px;
+  position: relative;
+  max-width: 664.55px;
+  max-height: 30px;
+  object-fit: cover;
+}
+
+.www-officeworks-com .img-margin-4 {
+  width: 40px;
+  position: relative;
+  max-width: 664.55px;
+  max-height: 30px;
+  object-fit: cover;
+}
+
+.www-officeworks-com .element-gif {
+  position: relative;
+  width: 1px;
+  height: 1px;
+  background-image: url(https://c.animaapp.com/07Hgc4Ia/img/86975-gif.gif);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-officeworks-com .div-headerstyle-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: flex-start;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--wwwofficeworkscomaunavy-blue);
+}
+
+.www-officeworks-com .div-headerstyle-2 {
+  display: flex;
+  flex-direction: column;
+  height: 130px;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: var(--wwwofficeworkscomaunavy-blue);
+}
+
+.www-officeworks-com .div-headerstyle-3 {
+  flex-wrap: wrap;
+  max-width: 1200px;
+  width: 1200px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0px 0px;
+  padding: 10px;
+  flex: 0 0 auto;
+  display: flex;
+  position: relative;
+}
+
+.www-officeworks-com .div-logo {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 0px 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .link-19 {
+  position: relative;
+  width: 184px;
+  height: 61px;
+}
+
+.www-officeworks-com .div-searchbox {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 40px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.www-officeworks-com .input-2 {
+  padding: 12px 10px 12px 15px;
+  margin-right: -0.19px;
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  background-color: var(--wwwofficeworkscomaunero);
+  border-radius: 3px;
+}
+
+.www-officeworks-com .div-placeholder-4 {
+  padding: 0px 199.99px 0px 0px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-62 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomauboulder);
+  font-size: 13.1px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.www-officeworks-com .button-7 {
+  position: absolute;
+  width: 20px;
+  height: 40px;
+  top: 0;
+  left: 466px;
+}
+
+.www-officeworks-com .nav-margin {
+  display: flex;
+  flex-direction: column;
+  width: 420.2px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-officeworks-com .nav {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .list-5 {
+  display: inline-flex;
+  align-items: flex-start;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .item-button {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  padding: 12.22px 10px 12.21px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  background-color: var(--wwwofficeworkscomaunavy-blue);
+}
+
+.www-officeworks-com .SVG-2 {
+  position: relative;
+  width: 22px;
+  height: 26.55px;
+}
+
+.www-officeworks-com .div-style {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-63 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaunero);
+  font-size: 11.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 10px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .link-20 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 43.98px 10px 10px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--wwwofficeworkscomaunavy-blue);
+}
+
+.www-officeworks-com .span-tilestyled {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-64 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaunero);
+  font-size: 13.1px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 10px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .after-2 {
+  position: absolute;
+  width: 125px;
+  height: 64px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.www-officeworks-com .item-5 {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .button-8 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 63.98px;
+  background-color: var(--wwwofficeworkscomaunavy-blue);
+}
+
+.www-officeworks-com .overlap-group-5 {
+  position: relative;
+  width: 112px;
+  height: 64px;
+}
+
+.www-officeworks-com .span-loginstyled {
+  display: flex;
+  flex-direction: column;
+  width: 72px;
+  align-items: center;
+  padding: 0px 19.07px 0px 19.04px;
+  position: absolute;
+  top: 44px;
+  left: 20px;
+}
+
+.www-officeworks-com .after-3 {
+  position: absolute;
+  width: 112px;
+  height: 64px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.www-officeworks-com .span-myaccount {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 0;
+  left: 60px;
+  background-color: var(--wwwofficeworkscomaublack);
+  border-radius: 10px;
+}
+
+.www-officeworks-com .item-button-2 {
+  display: inline-flex;
+  flex-direction: column;
+  min-width: 64px;
+  align-items: center;
+  gap: 3px;
+  padding: 12.48px 10px 12.5px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  background-color: var(--wwwofficeworkscomaunavy-blue);
+}
+
+.www-officeworks-com .SVG-3 {
+  position: relative;
+  width: 22px;
+  height: 26px;
+}
+
+.www-officeworks-com .div-style-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 8.78px 0px 8.77px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-65 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaunero);
+  font-size: 12.9px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 10px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .div-sc-gsfsxq {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  top: 89px;
+  left: 697px;
+  background-color: var(--wwwofficeworkscomaumalachite);
+  border-radius: 6px;
+}
+
+.www-officeworks-com .div-sc-kayceb {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: -6px;
+  left: 131px;
+  background-color: var(--wwwofficeworkscomaumalachite);
+  transform: rotate(45deg);
+}
+
+.www-officeworks-com .div-style-3 {
+  display: flex;
+  flex-direction: column;
+  max-width: 275px;
+  align-items: center;
+  padding: 24px 34.76px 24px 34.77px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-officeworks-com .text-wrapper-66 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-officeworks-com-au-inter-regular-14-88-font-family);
+  font-weight: var(--www-officeworks-com-au-inter-regular-14-88-font-weight);
+  color: var(--wwwofficeworkscomaumine-shaft);
+  font-size: var(--www-officeworks-com-au-inter-regular-14-88-font-size);
+  text-align: center;
+  letter-spacing: var(--www-officeworks-com-au-inter-regular-14-88-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-regular-14-88-line-height);
+  white-space: nowrap;
+  font-style: var(--www-officeworks-com-au-inter-regular-14-88-font-style);
+}
+
+.www-officeworks-com .link-log-in {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.02px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 15.1px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22.9px;
+}
+
+.www-officeworks-com .text-wrapper-67 {
+  font-weight: var(--www-officeworks-com-au-inter-bold-15-13-font-weight);
+  color: #001080;
+  font-family: var(--www-officeworks-com-au-inter-bold-15-13-font-family);
+  font-style: var(--www-officeworks-com-au-inter-bold-15-13-font-style);
+  letter-spacing: var(--www-officeworks-com-au-inter-bold-15-13-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-bold-15-13-line-height);
+  font-size: var(--www-officeworks-com-au-inter-bold-15-13-font-size);
+}
+
+.www-officeworks-com .text-wrapper-68 {
+  color: #252525;
+  font-family: var(--www-officeworks-com-au-inter-regular-15-13-font-family);
+  font-style: var(--www-officeworks-com-au-inter-regular-15-13-font-style);
+  font-weight: var(--www-officeworks-com-au-inter-regular-15-13-font-weight);
+  letter-spacing: var(--www-officeworks-com-au-inter-regular-15-13-letter-spacing);
+  line-height: var(--www-officeworks-com-au-inter-regular-15-13-line-height);
+  font-size: var(--www-officeworks-com-au-inter-regular-15-13-font-size);
+}
+
+.www-officeworks-com .div-sc-iggwbj {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 8px;
+  left: 255px;
+}
+
+.www-officeworks-com .div-sc-eljkpf-wrapper {
+  flex-direction: column;
+  height: 39px;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 360px;
+  align-self: stretch;
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+
+.www-officeworks-com .div-sc-eljkpf {
+  position: relative;
+  max-width: 1200px;
+  width: 1200px;
+  height: 39px;
+  overflow: hidden;
+}
+
+.www-officeworks-com .navigation {
+  display: flex;
+  width: 1200px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-officeworks-com .navigation-2 {
+  display: flex;
+  flex-direction: column;
+  width: 115.03px;
+  align-items: flex-start;
+  padding: 4px 22.11px 0px 22.09px;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .link-21 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 8px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -0.17px;
+}
+
+.www-officeworks-com .text-wrapper-69 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaunero);
+  font-size: 12.9px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .navigation-3 {
+  width: 138.11px;
+  padding: 4px 22.1px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .link-22 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 8px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -0.09px;
+}
+
+.www-officeworks-com .text-wrapper-70 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaunero);
+  font-size: 13.1px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .navigation-4 {
+  width: 114.77px;
+  padding: 4px 22.12px 0px 22.09px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .ink-toner-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 8px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -0.44px;
+}
+
+.www-officeworks-com .text-wrapper-71 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaunero);
+  font-size: 13.3px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .navigation-5 {
+  width: 100.23px;
+  padding: 4px 22.11px 0px 22.09px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .link-23 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 8px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -0.97px;
+}
+
+.www-officeworks-com .navigation-6 {
+  width: 81.56px;
+  padding: 4px 22.11px 0px 22.09px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .link-24 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 8px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -0.64px;
+}
+
+.www-officeworks-com .text-wrapper-72 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaunero);
+  font-size: 13.6px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .navigation-7 {
+  width: 109.56px;
+  padding: 4px 22.1px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .art-craft {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaunero);
+  font-size: 13px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .navigation-8 {
+  width: 167.69px;
+  padding: 4px 22.12px 0px 22.09px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .link-25 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 8px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -0.52px;
+}
+
+.www-officeworks-com .navigation-9 {
+  width: 106.48px;
+  padding: 4px 22.1px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .link-26 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 8px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -0.72px;
+}
+
+.www-officeworks-com .text-wrapper-73 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwofficeworkscomaunero);
+  font-size: 13.2px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.www-officeworks-com .navigation-10 {
+  width: 122.8px;
+  padding: 4px 22.12px 0px 22.09px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .print-copy-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 8px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -0.41px;
+}
+
+.www-officeworks-com .navigation-11 {
+  width: 143.81px;
+  padding: 4px 22.1px 0px;
+  margin-right: -0.04px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-officeworks-com .new-trending-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 8px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -0.39px;
+}

@@ -1,0 +1,19 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:var(--www-officeworks-com-au-inter-regular-13-45-font-weight),var(--www-officeworks-com-au-inter-bold-15-13-font-weight),var(--www-officeworks-com-au-inter-bold-17-44-font-weight),var(--www-officeworks-com-au-inter-bold-10-5-font-weight),var(--www-officeworks-com-au-inter-regular-11-7-font-weight),var(--www-officeworks-com-au-inter-regular-13-23-font-weight),var(--www-officeworks-com-au-inter-bold-17-3-font-weight),var(--www-officeworks-com-au-inter-bold-10-01-font-weight),var(--www-officeworks-com-au-inter-regular-11-25-font-weight),var(--www-officeworks-com-au-inter-regular-15-13-font-weight),var(--www-officeworks-com-au-inter-regular-13-02-font-weight),var(--www-officeworks-com-au-inter-bold-17-02-font-weight),var(--www-officeworks-com-au-inter-bold-25-7-font-weight),400,var(--www-officeworks-com-au-inter-regular-13-13-font-weight),500,var(--www-officeworks-com-au-inter-medium-17-72-font-weight),var(--www-officeworks-com-au-inter-bold-17-72-font-weight),var(--www-officeworks-com-au-inter-bold-14-font-weight),var(--www-officeworks-com-au-inter-bold-34-73-font-weight),var(--www-officeworks-com-au-inter-bold-9-19-font-weight),var(--www-officeworks-com-au-inter-medium-19-53-font-weight),var(--www-officeworks-com-au-inter-regular-12-69-font-weight),var(--www-officeworks-com-au-inter-medium-17-16-font-weight),var(--www-officeworks-com-au-inter-bold-25-19-font-weight),var(--www-officeworks-com-au-inter-regular-12-91-font-weight),var(--www-officeworks-com-au-inter-bold-25-09-font-weight),var(--www-officeworks-com-au-inter-bold-17-58-font-weight),var(--www-officeworks-com-au-inter-bold-16-88-font-weight),var(--www-officeworks-com-au-inter-medium-19-69-font-weight),var(--www-officeworks-com-au-inter-regular-14-88-font-weight),var(--www-officeworks-com-au-inter-bold-13-89-font-weight),var(--www-officeworks-com-au-inter-medium-20-font-weight),700,var(--www-officeworks-com-au-inter-medium-19-84-font-weight)");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
